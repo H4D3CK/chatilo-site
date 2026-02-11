@@ -1,5 +1,5 @@
 export default defineNuxtConfig({
-  css: [
+    css: [
     '@/assets/css/tailwind.css',
     '@fortawesome/fontawesome-free/css/all.min.css'
   ],
