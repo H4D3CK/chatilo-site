@@ -73,10 +73,10 @@ npm install
 ```bash
 npm run dev
 ```
-
+```
 Acesse no navegador:  
 http://localhost:3000
-
+```
 ---
 
 ## ☁️ Deploy na Vercel
