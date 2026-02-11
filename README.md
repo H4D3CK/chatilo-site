@@ -73,8 +73,9 @@ npm install
 ```bash
 npm run dev
 ```
+
+Acesse no navegador:
 ```
-Acesse no navegador:  
 http://localhost:3000
 ```
 ---
